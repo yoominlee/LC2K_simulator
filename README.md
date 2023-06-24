@@ -1,7 +1,7 @@
 # LC2K_simulator
 A program that can simulate any legal LC-2K machine-code program.
 
-## SIMULATOR
+## [SIMULATOR]
 Input : the machine-code file which is created with assembler.   
 Output : txt file that shows the status of each program counter(PC).   
 - initialize all registers and the program counter to 0 at the beginning.
