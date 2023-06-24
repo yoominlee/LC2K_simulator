@@ -1,0 +1,274 @@
+memory[0]=8388617
+memory[1]=8454154
+memory[2]=4194306
+memory[3]=4784131
+memory[4]=5439492
+memory[5]=15466496
+memory[6]=15728640
+memory[7]=16318464
+memory[8]=25165824
+memory[9]=175
+memory[10]=11
+
+@@@
+state:
+	pc 0
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 1
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 2
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 3
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 4
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 5
+	memory:
+		mem[ 0 ] 8388617
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 6
+	memory:
+		mem[ 0 ] 0
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 7
+	memory:
+		mem[ 0 ] 175
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+
+@@@
+state:
+	pc 8
+	memory:
+		mem[ 0 ] 0
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+machine halted
+total of 9 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 9
+	memory:
+		mem[ 0 ] 0
+		mem[ 1 ] 8454154
+		mem[ 2 ] 4194306
+		mem[ 3 ] 4784131
+		mem[ 4 ] 5439492
+		mem[ 5 ] 15466496
+		mem[ 6 ] 15728640
+		mem[ 7 ] 16318464
+		mem[ 8 ] 25165824
+		mem[ 9 ] 175
+		mem[ 10 ] 11
+	registers:
+		reg[ 0 ] 175 
+		reg[ 1 ] 0 
+		reg[ 2 ] -176 
+		reg[ 3 ] -1 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state

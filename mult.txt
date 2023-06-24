@@ -1,0 +1,3449 @@
+memory[0]=8388633
+memory[1]=8454169
+memory[2]=8519706
+memory[3]=8585243
+memory[4]=8650781
+memory[5]=8716316
+memory[6]=8847389
+memory[7]=8781849
+memory[8]=17825806
+memory[9]=18677773
+memory[10]=17104908
+memory[11]=5963782
+memory[12]=6553607
+memory[13]=7798790
+memory[14]=17170434
+memory[15]=655361
+memory[16]=29360128
+memory[17]=1179650
+memory[18]=2359300
+memory[19]=8847390
+memory[20]=3080197
+memory[21]=29360128
+memory[22]=16842739
+memory[23]=25165824
+memory[24]=29360128
+memory[25]=0
+memory[26]=25321
+memory[27]=15456
+memory[28]=16
+memory[29]=1
+memory[30]=-1
+
+@@@
+state:
+	pc 0
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 1
+loopcount: 0
+
+@@@
+state:
+	pc 1
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 2
+loopcount: 0
+
+@@@
+state:
+	pc 2
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 0 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 3
+loopcount: 0
+
+@@@
+state:
+	pc 3
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 0 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 4
+loopcount: 0
+
+@@@
+state:
+	pc 4
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 0 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 5
+loopcount: 0
+
+@@@
+state:
+	pc 5
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 6
+loopcount: 0
+
+@@@
+state:
+	pc 6
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 0 
+end state
+instructionCount: 7
+loopcount: 0
+
+@@@
+state:
+	pc 7
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 1 
+end state
+instructionCount: 8
+loopcount: 0
+
+@@@
+state:
+	pc 8
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 1 
+end state
+instructionCount: 9
+loopcount: 0
+
+@@@
+state:
+	pc 9
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 1 
+end state
+instructionCount: 10
+loopcount: 0
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 1 
+end state
+instructionCount: 11
+loopcount: 0
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] 1 
+end state
+instructionCount: 12
+loopcount: 0
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] -15457 
+		reg[ 7 ] 1 
+end state
+instructionCount: 13
+loopcount: 0
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -2 
+end state
+instructionCount: 14
+loopcount: 0
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] -2 
+end state
+instructionCount: 15
+loopcount: 0
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 25321 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] -2 
+end state
+instructionCount: 16
+loopcount: 0
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] -2 
+end state
+instructionCount: 17
+loopcount: 0
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] -2 
+end state
+instructionCount: 18
+loopcount: 0
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 16 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 19
+loopcount: 0
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 20
+loopcount: 1
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 21
+loopcount: 1
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 22
+loopcount: 1
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 23
+loopcount: 1
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 24
+loopcount: 1
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -3 
+end state
+instructionCount: 25
+loopcount: 1
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -3 
+end state
+instructionCount: 26
+loopcount: 1
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 50642 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -3 
+end state
+instructionCount: 27
+loopcount: 1
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -3 
+end state
+instructionCount: 28
+loopcount: 1
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -3 
+end state
+instructionCount: 29
+loopcount: 1
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 15 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 30
+loopcount: 1
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 31
+loopcount: 2
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 32
+loopcount: 2
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 33
+loopcount: 2
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 34
+loopcount: 2
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 35
+loopcount: 2
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -5 
+end state
+instructionCount: 36
+loopcount: 2
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -5 
+end state
+instructionCount: 37
+loopcount: 2
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 101284 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -5 
+end state
+instructionCount: 38
+loopcount: 2
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -5 
+end state
+instructionCount: 39
+loopcount: 2
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -5 
+end state
+instructionCount: 40
+loopcount: 2
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 14 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 41
+loopcount: 2
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 42
+loopcount: 3
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 43
+loopcount: 3
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 44
+loopcount: 3
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 45
+loopcount: 3
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 46
+loopcount: 3
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -9 
+end state
+instructionCount: 47
+loopcount: 3
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -9 
+end state
+instructionCount: 48
+loopcount: 3
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 202568 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -9 
+end state
+instructionCount: 49
+loopcount: 3
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -9 
+end state
+instructionCount: 50
+loopcount: 3
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -9 
+end state
+instructionCount: 51
+loopcount: 3
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 13 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 52
+loopcount: 3
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 53
+loopcount: 4
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 54
+loopcount: 4
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 55
+loopcount: 4
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 56
+loopcount: 4
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 57
+loopcount: 4
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -17 
+end state
+instructionCount: 58
+loopcount: 4
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -17 
+end state
+instructionCount: 59
+loopcount: 4
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 405136 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -17 
+end state
+instructionCount: 60
+loopcount: 4
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -17 
+end state
+instructionCount: 61
+loopcount: 4
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -17 
+end state
+instructionCount: 62
+loopcount: 4
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 12 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 63
+loopcount: 4
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 64
+loopcount: 5
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 65
+loopcount: 5
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 66
+loopcount: 5
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 67
+loopcount: 5
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 68
+loopcount: 5
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -33 
+end state
+instructionCount: 69
+loopcount: 5
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 70
+loopcount: 5
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 0 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 71
+loopcount: 5
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 72
+loopcount: 6
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 810272 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 73
+loopcount: 6
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 74
+loopcount: 6
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -33 
+end state
+instructionCount: 75
+loopcount: 6
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 11 
+		reg[ 6 ] 32 
+		reg[ 7 ] -1 
+end state
+instructionCount: 76
+loopcount: 6
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 32 
+		reg[ 7 ] -1 
+end state
+instructionCount: 77
+loopcount: 7
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 32 
+		reg[ 7 ] -1 
+end state
+instructionCount: 78
+loopcount: 7
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 32 
+		reg[ 7 ] -1 
+end state
+instructionCount: 79
+loopcount: 7
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 32 
+		reg[ 7 ] -1 
+end state
+instructionCount: 80
+loopcount: 7
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 81
+loopcount: 7
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -65 
+end state
+instructionCount: 82
+loopcount: 7
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 83
+loopcount: 7
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 810272 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 84
+loopcount: 7
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 85
+loopcount: 8
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 1620544 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 86
+loopcount: 8
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 64 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 87
+loopcount: 8
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -65 
+end state
+instructionCount: 88
+loopcount: 8
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 10 
+		reg[ 6 ] 64 
+		reg[ 7 ] -1 
+end state
+instructionCount: 89
+loopcount: 8
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 64 
+		reg[ 7 ] -1 
+end state
+instructionCount: 90
+loopcount: 9
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 64 
+		reg[ 7 ] -1 
+end state
+instructionCount: 91
+loopcount: 9
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 64 
+		reg[ 7 ] -1 
+end state
+instructionCount: 92
+loopcount: 9
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 64 
+		reg[ 7 ] -1 
+end state
+instructionCount: 93
+loopcount: 9
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 94
+loopcount: 9
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -129 
+end state
+instructionCount: 95
+loopcount: 9
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 0 
+		reg[ 7 ] -129 
+end state
+instructionCount: 96
+loopcount: 9
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 3241088 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 0 
+		reg[ 7 ] -129 
+end state
+instructionCount: 97
+loopcount: 9
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 128 
+		reg[ 5 ] 9 
+		reg[ 6 ] 0 
+		reg[ 7 ] -129 
+end state
+instructionCount: 98
+loopcount: 9
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 9 
+		reg[ 6 ] 0 
+		reg[ 7 ] -129 
+end state
+instructionCount: 99
+loopcount: 9
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 9 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 100
+loopcount: 9
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 101
+loopcount: 10
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 102
+loopcount: 10
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 103
+loopcount: 10
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 104
+loopcount: 10
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 105
+loopcount: 10
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -257 
+end state
+instructionCount: 106
+loopcount: 10
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -257 
+end state
+instructionCount: 107
+loopcount: 10
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 6482176 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -257 
+end state
+instructionCount: 108
+loopcount: 10
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 256 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -257 
+end state
+instructionCount: 109
+loopcount: 10
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -257 
+end state
+instructionCount: 110
+loopcount: 10
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 8 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 111
+loopcount: 10
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 112
+loopcount: 11
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 113
+loopcount: 11
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 114
+loopcount: 11
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 115
+loopcount: 11
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 116
+loopcount: 11
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -513 
+end state
+instructionCount: 117
+loopcount: 11
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -513 
+end state
+instructionCount: 118
+loopcount: 11
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 12964352 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -513 
+end state
+instructionCount: 119
+loopcount: 11
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 512 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -513 
+end state
+instructionCount: 120
+loopcount: 11
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -513 
+end state
+instructionCount: 121
+loopcount: 11
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 7 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 122
+loopcount: 11
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 123
+loopcount: 12
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 124
+loopcount: 12
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 125
+loopcount: 12
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 126
+loopcount: 12
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 127
+loopcount: 12
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 128
+loopcount: 12
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 129
+loopcount: 12
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 2430816 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 130
+loopcount: 12
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 131
+loopcount: 13
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 25928704 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 132
+loopcount: 13
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 1024 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 133
+loopcount: 13
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1025 
+end state
+instructionCount: 134
+loopcount: 13
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 6 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1 
+end state
+instructionCount: 135
+loopcount: 13
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1 
+end state
+instructionCount: 136
+loopcount: 14
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1 
+end state
+instructionCount: 137
+loopcount: 14
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1 
+end state
+instructionCount: 138
+loopcount: 14
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 1024 
+		reg[ 7 ] -1 
+end state
+instructionCount: 139
+loopcount: 14
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 140
+loopcount: 14
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 141
+loopcount: 14
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 142
+loopcount: 14
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 28359520 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 143
+loopcount: 14
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 144
+loopcount: 15
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 51857408 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 145
+loopcount: 15
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 2048 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 146
+loopcount: 15
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -2049 
+end state
+instructionCount: 147
+loopcount: 15
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 5 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -1 
+end state
+instructionCount: 148
+loopcount: 15
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -1 
+end state
+instructionCount: 149
+loopcount: 16
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -1 
+end state
+instructionCount: 150
+loopcount: 16
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -1 
+end state
+instructionCount: 151
+loopcount: 16
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 2048 
+		reg[ 7 ] -1 
+end state
+instructionCount: 152
+loopcount: 16
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 153
+loopcount: 16
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 154
+loopcount: 16
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 155
+loopcount: 16
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 80216928 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 156
+loopcount: 16
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 157
+loopcount: 17
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 103714816 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 158
+loopcount: 17
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 4096 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 159
+loopcount: 17
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -4097 
+end state
+instructionCount: 160
+loopcount: 17
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 4 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -1 
+end state
+instructionCount: 161
+loopcount: 17
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -1 
+end state
+instructionCount: 162
+loopcount: 18
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -1 
+end state
+instructionCount: 163
+loopcount: 18
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -1 
+end state
+instructionCount: 164
+loopcount: 18
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 4096 
+		reg[ 7 ] -1 
+end state
+instructionCount: 165
+loopcount: 18
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 166
+loopcount: 18
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 167
+loopcount: 18
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 168
+loopcount: 18
+
+@@@
+state:
+	pc 15
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 183931744 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 169
+loopcount: 18
+
+@@@
+state:
+	pc 16
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 170
+loopcount: 19
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 207429632 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 171
+loopcount: 19
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 8192 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 172
+loopcount: 19
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -8193 
+end state
+instructionCount: 173
+loopcount: 19
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 3 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -1 
+end state
+instructionCount: 174
+loopcount: 19
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -1 
+end state
+instructionCount: 175
+loopcount: 20
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -1 
+end state
+instructionCount: 176
+loopcount: 20
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -1 
+end state
+instructionCount: 177
+loopcount: 20
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 8192 
+		reg[ 7 ] -1 
+end state
+instructionCount: 178
+loopcount: 20
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 179
+loopcount: 20
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -16385 
+end state
+instructionCount: 180
+loopcount: 20
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 0 
+		reg[ 7 ] -16385 
+end state
+instructionCount: 181
+loopcount: 20
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 414859264 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 0 
+		reg[ 7 ] -16385 
+end state
+instructionCount: 182
+loopcount: 20
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 16384 
+		reg[ 5 ] 2 
+		reg[ 6 ] 0 
+		reg[ 7 ] -16385 
+end state
+instructionCount: 183
+loopcount: 20
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 2 
+		reg[ 6 ] 0 
+		reg[ 7 ] -16385 
+end state
+instructionCount: 184
+loopcount: 20
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 2 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 185
+loopcount: 20
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 186
+loopcount: 21
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 187
+loopcount: 21
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 188
+loopcount: 21
+
+@@@
+state:
+	pc 11
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 189
+loopcount: 21
+
+@@@
+state:
+	pc 12
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -1 
+end state
+instructionCount: 190
+loopcount: 21
+
+@@@
+state:
+	pc 13
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] -15457 
+		reg[ 7 ] -32769 
+end state
+instructionCount: 191
+loopcount: 21
+
+@@@
+state:
+	pc 14
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -32769 
+end state
+instructionCount: 192
+loopcount: 21
+
+@@@
+state:
+	pc 17
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 829718528 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -32769 
+end state
+instructionCount: 193
+loopcount: 21
+
+@@@
+state:
+	pc 18
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 32768 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -32769 
+end state
+instructionCount: 194
+loopcount: 21
+
+@@@
+state:
+	pc 19
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -32769 
+end state
+instructionCount: 195
+loopcount: 21
+
+@@@
+state:
+	pc 20
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 1 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 196
+loopcount: 21
+
+@@@
+state:
+	pc 21
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 197
+loopcount: 22
+
+@@@
+state:
+	pc 22
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 198
+loopcount: 22
+
+@@@
+state:
+	pc 10
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+instructionCount: 199
+loopcount: 22
+
+@@@
+state:
+	pc 23
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
+machine halted
+instructionCount: 200
+loopcount: 22
+total of 200 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 24
+	memory:
+	registers:
+		reg[ 0 ] 0 
+		reg[ 1 ] 391361376 
+		reg[ 2 ] 1659437056 
+		reg[ 3 ] 15456 
+		reg[ 4 ] 65536 
+		reg[ 5 ] 0 
+		reg[ 6 ] 0 
+		reg[ 7 ] -1 
+end state
